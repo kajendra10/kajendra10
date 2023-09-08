@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on android apps
-- 🌱 I’m currently learning Jetpack compose (Kotlin)
-- 👯 I’m looking to collaborate with any available android developers
-- 💬 Ask me about android apps, kotlin
+- 🔭 Currently working on native android apps
+- 🌱 Learning Jetpack compose, HTTP request, Retrofit
+- 👯 Open to collaborate with any available android developers
+- 💬 Ask me about android apps, kotlin & machine learning
 - 📫 How to reach me: kajendranaathrajan@gmail.com
 - 😄 Pronouns: KJ
 - ⚡ Fun fact: Musician
