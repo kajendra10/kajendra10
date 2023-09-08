@@ -1,4 +1,4 @@
-- 🔭 Currently working on native android apps
+- 🔭 Currently working on freelance android projects
 - 🌱 Learning Jetpack compose, HTTP request, Retrofit
 - 👯 Open to collaborate with any available android developers
 - 💬 Ask me about android apps, kotlin & machine learning
