@@ -3,5 +3,5 @@
 - 👯 Open to collaborate with any available android developers
 - 💬 Ask me about android apps, kotlin & machine learning
 - 📫 How to reach me: kajendranaathrajan@gmail.com
-- 😄 Pronouns: KJ
+- 😄 Pronouns: KJ | KAJEN
 - ⚡ Fun fact: Musician
