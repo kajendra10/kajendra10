@@ -1,7 +1,7 @@
 - 🔭 Currently working on freelance android projects
-- 🌱 Learning Jetpack compose, HTTP request, Retrofit
+- 🌱 Learning Jetpack compose, HTTP request, Retrofit, etc
 - 👯 Open to collaborate with any available android developers
 - 💬 Ask me about android apps, kotlin & machine learning
-- 📫 How to reach me: kajendranaathrajan@gmail.com
+- 📫 How to reach me: asiandeveloperk@gmail.com | kajendranaathrajan@gmail.com
 - 😄 Pronouns: KJ | KAJEN
 - ⚡ Fun fact: Musician
