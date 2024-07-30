@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance app devs**
 
-- 💬 Ask me about **kotln, machine learning, apps**
+- 💬 Ask me about **Kotlin, Machine Learning, apps**
 
 - 📫 How to reach me **asiandeveloperk@gmail.com | kajendranaathrajan@gmail.com**
 
@@ -23,6 +23,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/kajendranaath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajendranaath" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18379618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18379618" height="30" width="40" /></a>
+<a href="https://kaggle.com/kajendranaath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kajendranaath" height="30" width="40" /></a>
+<a href="https://fb.com/kajendrarajan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kajendrarajan01" height="30" width="40" /></a>
+<a href="https://instagram.com/kajen_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajen_01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kajendranaathrajan7036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajendranaathrajan7036" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kajendranaathra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kajendranaathra1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
