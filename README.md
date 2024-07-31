@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajendra10" alt="kajendra10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kajendranaath" target="blank"><img src="https://img.shields.io/twitter/follow/kajendranaath?logo=twitter&style=for-the-badge" alt="kajendranaath" /></a> </p>
 
 - 🔭 I’m currently working on **Freelance Android Projects**
 
@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kajendranaath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kajendranaath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kajendranaath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajendranaath" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18379618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18379618" height="30" width="40" /></a>
 <a href="https://kaggle.com/kajendranaath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kajendranaath" height="30" width="40" /></a>
