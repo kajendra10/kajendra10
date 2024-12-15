@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance app devs**
 
-- 💬 Ask me about **Kotlin, Machine Learning, apps**
+- 💬 Ask me about **Kotlin, Machine Learning, Native Apps**
 
 - 📫 How to reach me **asiandeveloperk@gmail.com | kajendranaathrajan@gmail.com**
 
