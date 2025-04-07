@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kajendranaath" target="blank"><img src="https://img.shields.io/twitter/follow/kajendranaath?logo=twitter&style=for-the-badge" alt="kajendranaath" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance Android Projects**
+- 🔭 Currently working on **Freelance Android Projects**
 
-- 🌱 I’m currently learning **HTTP request, retrofit**
+- 🌱 Currently working on **HTTP request, retrofit**
 
-- 👯 I’m looking to collaborate on **Freelance app devs**
+- 👯 Looking to collaborate with **Freelance app developers**
 
 - 💬 Ask me about **Kotlin, Machine Learning, Native Apps**
 
