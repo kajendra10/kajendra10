@@ -9,7 +9,7 @@
 
 - 🔭 Currently working on **Freelance Android Projects**
 
-- 🌱 Currently working on **HTTP request, retrofit**
+- 🌱 Currently learning **Jetpack Compose**
 
 - 👯 Looking to collaborate with **Freelance app developers**
 
