@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Jetpack Compose**
 
-- 👯 Looking to collaborate with **Freelance app developers**
+- 👯 Looking to collaborate with **Freelance App Developers**
 
 - 💬 Ask me about **Kotlin, Machine Learning, Native Apps**
 
