@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **asiandeveloperk@gmail.com | kajendranaathrajan@gmail.com**
 
-- ⚡ Fun fact **Musician**
+- ⚡ Fun fact **Runner | Cyclist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
